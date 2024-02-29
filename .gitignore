@@ -1,0 +1,9 @@
+## PDF files for the paper
+*.pdf
+
+## Excel sheets for the paper
+*.csv
+
+## all my microscopy images for my paper
+## you can list one-by-one your files
+*.tiff

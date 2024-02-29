@@ -8,19 +8,15 @@ cd /Users/sohyungkim/Desktop/Workspace/VIB_Training/Github
 
 When writing a commit, you have to include why was it changed, how this addresses the issue, and the effects due to the change. Most importantly, you should mention limitation of the change, meaning that you should mention if your changes are complete or not. Be as descriptive as possible!!!
 
-
-
 ## 1. Make a file in your working directory (developmental area) locally with MarkText.
 
-
-
-## 2. Add the local file into the staging area.
+## 2. Add the local file into the staging area by  `git add`
 
 ```
 git add [filename.md]
-```
 
-## 
+git add * #to add all the files in the working directory 
+```
 
 ## 3. Saving a timepoint by using `git commit -m [message]`
 
@@ -29,9 +25,7 @@ git add [filename.md]
 git commit -m "meaningful msg"
 ```
 
-
-
-
+If you forget to put `-m` in `git commit`, then git will open you a **vi editor** to enter your message because he will NOT let you commit without any messages!
 
 
 
@@ -46,7 +40,5 @@ git status
 # Changes not staged: modified, but did not got added to the staging area
 # Untracked files: file that has never been added/committed
 ```
-
-
 
 
