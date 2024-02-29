@@ -18,8 +18,4 @@ It is a online repository (back up place for your Git project) in a server where
 
 `git status` allows me to check which conceptual areas our files are:
 
-  1. Unstaged:
-
-2. Un
-
-# Git status
+# 
