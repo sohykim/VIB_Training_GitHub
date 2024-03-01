@@ -39,8 +39,6 @@ git status
 # Untracked files: file that has never been added/committed
 ```
 
-
-
 # View history by using `git log`
 
 This command will give you a **unique identifier** of each commit that you can access.
@@ -92,3 +90,7 @@ git show <commit ID 1> <commit ID 2>
 # shows the **difference** between the two commits in a **line-by-line comparison**
 git diff <commit ID 1> <commit ID 2>
 ```
+
+
+
+I cannot revert!
