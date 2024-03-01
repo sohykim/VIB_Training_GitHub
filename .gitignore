@@ -1,9 +1,2 @@
-## PDF files for the paper
-*.pdf
-
-## Excel sheets for the paper
-*.csv
-
-## all my microscopy images for my paper
-## you can list one-by-one your files
-*.tiff
+#Default Mac file that does not disappear so I will make Git ignore
+.DS_Store
