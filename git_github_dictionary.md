@@ -55,6 +55,7 @@ git commit -m "meaningful msg"
 ## Saving a timepoint by using `git commit -m [message]`
 
 
+forcing to create conflict - doc 2
 
 
 
