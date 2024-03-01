@@ -1,3 +1,5 @@
+Bruna Piereck
+
 # Starting my Git timeline
 
 ## Initialise your Git by using `git init`
