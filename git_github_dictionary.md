@@ -29,6 +29,7 @@ It is a online repository (back up place for your Git project) in a server where
 
 * **Remote repository (GitHub)**: back-up space in clouds.
 
+
 ---
 
 
@@ -54,8 +55,7 @@ git commit -m "meaningful msg"
 
 ## Saving a timepoint by using `git commit -m [message]`
 
-
-forcing to create conflict - doc 2
+CREATING CONFLICT from local
 
 
 
