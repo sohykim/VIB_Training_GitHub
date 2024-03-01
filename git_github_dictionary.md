@@ -55,8 +55,7 @@ git commit -m "meaningful msg"
 
 ## Saving a timepoint by using `git commit -m [message]`
 
-CREATING CONFLICT from local
-CREATING CONFLICT from GitHub
+CREATING CONFLICT from GitHub (trial 2)
 
 
 
