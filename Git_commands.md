@@ -93,4 +93,6 @@ git diff <commit ID 1> <commit ID 2>
 
 
 
-I cannot revert!
+```
+git revert HEAD~1
+```
